@@ -1,0 +1,27 @@
+.contenedor{
+	margin-right: 40px;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+
+h1:hover{
+	color: #85c1e9;
+}
+
+.resalt:hover{
+	font-size: 20px;
+	font-family: Arial ;
+}
+
+.articulo{
+	font-size: 20px;
+	font-family: Bell MT;
+	color: 	#5d6d7e; 
+}
+
+
+.btn2:hover {
+	border-radius: 4px;
+    background-color: #008CBA;
+    color: white;
+ }
